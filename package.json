@@ -1,0 +1,16 @@
+{
+  "name": "curso_ebac_frontend",
+  "version": "1.0.0",
+  "description": "Exercício feito para o módulo de Git e Github do curso de desenvolvimento fullstack em Phyton ministrado pela EBAC.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
